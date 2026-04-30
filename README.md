@@ -36,6 +36,7 @@ This project focuses on optimizing drug-like molecules using Genetic Algorithms 
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python app.py
+streamlit run app.py
+
 
 
